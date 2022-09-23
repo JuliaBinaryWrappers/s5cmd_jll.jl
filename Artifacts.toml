@@ -1,0 +1,143 @@
+[[s5cmd]]
+arch = "aarch64"
+git-tree-sha1 = "8e01767bc931e745220d659e52e3420e17dc3713"
+os = "macos"
+
+    [[s5cmd.download]]
+    sha256 = "96e4e87c800adc809a2df80e8259cd8bb30dbd45d6fe028c91ef1da7fa792b13"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.aarch64-apple-darwin.tar.gz"
+[[s5cmd]]
+arch = "aarch64"
+git-tree-sha1 = "507a0c5c5b72d2b074de5a7f3d63e11a0edf2c37"
+libc = "glibc"
+os = "linux"
+
+    [[s5cmd.download]]
+    sha256 = "2f714a5a5e53e7a6ceb2cc7e7ee414a4b5ceaa2150c51f3a93256665f80dfdf7"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.aarch64-linux-gnu.tar.gz"
+[[s5cmd]]
+arch = "aarch64"
+git-tree-sha1 = "507a0c5c5b72d2b074de5a7f3d63e11a0edf2c37"
+libc = "musl"
+os = "linux"
+
+    [[s5cmd.download]]
+    sha256 = "2f714a5a5e53e7a6ceb2cc7e7ee414a4b5ceaa2150c51f3a93256665f80dfdf7"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.aarch64-linux-musl.tar.gz"
+[[s5cmd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b257e098327b35e87cd6bc3dedd23cae118694f3"
+libc = "glibc"
+os = "linux"
+
+    [[s5cmd.download]]
+    sha256 = "f22826516820e957d81983bb2b767ce5c47573b5970dc5e0da27b89fcc235616"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[s5cmd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b257e098327b35e87cd6bc3dedd23cae118694f3"
+libc = "musl"
+os = "linux"
+
+    [[s5cmd.download]]
+    sha256 = "f22826516820e957d81983bb2b767ce5c47573b5970dc5e0da27b89fcc235616"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.armv6l-linux-musleabihf.tar.gz"
+[[s5cmd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "da9a18aea9cab42d5a5aa139359e27336e8d6d01"
+libc = "glibc"
+os = "linux"
+
+    [[s5cmd.download]]
+    sha256 = "a9a418dca13173b4d044f2a92683ce7411a36c49559d34b979f4596fa872c080"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[s5cmd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "da9a18aea9cab42d5a5aa139359e27336e8d6d01"
+libc = "musl"
+os = "linux"
+
+    [[s5cmd.download]]
+    sha256 = "a9a418dca13173b4d044f2a92683ce7411a36c49559d34b979f4596fa872c080"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.armv7l-linux-musleabihf.tar.gz"
+[[s5cmd]]
+arch = "i686"
+git-tree-sha1 = "4ea47af1f47326941531721bb44bf430703f57c3"
+libc = "glibc"
+os = "linux"
+
+    [[s5cmd.download]]
+    sha256 = "d6b979ed2cb4bb381bacce59c742b7b564b8963723df4a20d41bcb9031883aeb"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.i686-linux-gnu.tar.gz"
+[[s5cmd]]
+arch = "i686"
+git-tree-sha1 = "4ea47af1f47326941531721bb44bf430703f57c3"
+libc = "musl"
+os = "linux"
+
+    [[s5cmd.download]]
+    sha256 = "d6b979ed2cb4bb381bacce59c742b7b564b8963723df4a20d41bcb9031883aeb"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.i686-linux-musl.tar.gz"
+[[s5cmd]]
+arch = "i686"
+git-tree-sha1 = "47627035b920cf97e4cbdd90bfe5ca585ce71a2e"
+os = "windows"
+
+    [[s5cmd.download]]
+    sha256 = "204dc9c76997f877ee21249b35b2bc4121acd49b23874c8c82bfb8874106afc2"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.i686-w64-mingw32.tar.gz"
+[[s5cmd]]
+arch = "powerpc64le"
+git-tree-sha1 = "dbd50fa4038420a1bbf3915f753b2a027ef196e4"
+libc = "glibc"
+os = "linux"
+
+    [[s5cmd.download]]
+    sha256 = "44e4aa29535498c7bdff3ed29cb21111141834d3f97795b09ddc31f2817bf09c"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.powerpc64le-linux-gnu.tar.gz"
+[[s5cmd]]
+arch = "x86_64"
+git-tree-sha1 = "fca16da4e40dca57ddbe25754d91f408b096c905"
+os = "macos"
+
+    [[s5cmd.download]]
+    sha256 = "29803bdd8244360fcb38226440bd17e5750fa7ceb4e73f00f0f72ed3b55e1e02"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.x86_64-apple-darwin.tar.gz"
+[[s5cmd]]
+arch = "x86_64"
+git-tree-sha1 = "2c6970972a445852df51fe6658b37ac69c0b7071"
+libc = "glibc"
+os = "linux"
+
+    [[s5cmd.download]]
+    sha256 = "4bc007e1dab03318474a907f98bfeffa7d2a6db7f1ff80a3af0a8e70ba0ec96c"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.x86_64-linux-gnu.tar.gz"
+[[s5cmd]]
+arch = "x86_64"
+git-tree-sha1 = "c21a4edd1aa622888fe679b07ef18486a77927ff"
+libc = "musl"
+os = "linux"
+
+    [[s5cmd.download]]
+    sha256 = "eb34943c046f6a783a56c8b387c7c31c30b615ee52a3055b7c8cd909d392746d"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.x86_64-linux-musl.tar.gz"
+[[s5cmd]]
+arch = "x86_64"
+git-tree-sha1 = "6e35e6ca73b4331cc770ac94e2d683f8812cd689"
+os = "freebsd"
+
+    [[s5cmd.download]]
+    sha256 = "2447fb65fe447bb0f28fe8cf947cfdf416cae267872ab2326af3feb04d8a6359"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.x86_64-unknown-freebsd.tar.gz"
+[[s5cmd]]
+arch = "x86_64"
+git-tree-sha1 = "368a8fad806b5fe9fadaa8026031d025f1e6d4be"
+os = "windows"
+
+    [[s5cmd.download]]
+    sha256 = "eae74615acc30c71d778ffb5d2e16f1eb8632331ffe8a67bd6904ab1e6e322bf"
+    url = "https://github.com/JuliaBinaryWrappers/s5cmd_jll.jl/releases/download/s5cmd-v2.0.0+0/s5cmd.v2.0.0.x86_64-w64-mingw32.tar.gz"
